@@ -10,7 +10,6 @@ import java.sql.Timestamp;
 
 @Data
 @Entity
-@Deprecated
 public class Receiving {
 
     @Id
